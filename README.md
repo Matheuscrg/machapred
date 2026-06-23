@@ -9,7 +9,7 @@ To run locally, you have to install Chemprop version 2.2.2 and run this command 
 !chemprop predict --test-path path/to/your/file.csv --model-path path/to/the/model.pt --preds-path path/to/where/you/want/your/results.csv --smiles-columns NAME_OF_YOUR_SMILES_COLUMN
 
 To run the online version you first need to install Streamlit and its dependencies, and Chemprop version 2.2.2.
-After that, you must create a folder named models, and then put the models in it.pt inside this folder.
+After that, you must create a folder named models, and then put the models.pt inside this folder.
 
 After that, you can run the following command to make it run:
 
