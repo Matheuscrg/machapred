@@ -2,7 +2,7 @@
 
 A Deep learning app for predicting bioactive compounds against Plasmodium sp. and Trypanosoma cruzi
 
-The online version of this app  is available at http://machapred.app/
+The online version of this app  is available at https://machapred.app/
 
 To run locally, you have to install Chemprop version 2.2.2 and run this command replacing with your data:
 
@@ -22,7 +22,7 @@ If you want to run it indefinitely, an easy solution is to use the nohup package
 
 Um aplicativo de Deep Learning para prever compostos bioativos contra Plasmodium sp. e Trypanosoma cruzi.
 
-A versão online deste aplicativo está disponível em http://machapred.app/
+A versão online deste aplicativo está disponível em https://machapred.app/
 
 Para rodar localmente, você precisa instalar o Chemprop versão 2.2.2 e executar este comando, substituindo pelos seus dados:
 
